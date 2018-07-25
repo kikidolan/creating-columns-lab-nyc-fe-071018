@@ -67,7 +67,8 @@ img:hover {
 .large {
   width: 300%;
   height: 300%;
-  display:block
+  margin:0 auto;
+  
 }
 
 
